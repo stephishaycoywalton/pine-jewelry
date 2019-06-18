@@ -1,4 +1,4 @@
-Pine Jewelry
+# Pine Jewelry
 
 The Pine Jewelry project was a very expansive project. I was provided a psd for the mobile and desktop version of a 1-page site. It was my assignment to convert this psd into a working one-page website. 
 
